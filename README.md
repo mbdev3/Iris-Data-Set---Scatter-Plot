@@ -4,7 +4,7 @@
 
 ### :camera: Preview:
 
-<img src="https://projects-preview.s3.eu-west-3.amazonaws.com/Iris+Data+set+scatter+plot+mbdev.webp" width="600" height='auto'  />
+<img src="https://projects-preview.s3.eu-west-3.amazonaws.com/Iris+Data+set+scatter+plot+mbdev.webp" width="50%"   />
 
 :rocket: **Stack:** [D3](https://d3js.org/), [React](https://reactjs.org/)
 
