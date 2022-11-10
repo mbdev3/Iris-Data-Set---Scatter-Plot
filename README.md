@@ -1,8 +1,6 @@
 # Iris Data set - Scatter Plot
 
----
 
-### :camera: Preview:
 
 <img src="https://projects-preview.s3.eu-west-3.amazonaws.com/Iris+Data+set+scatter+plot+mbdev.webp" width="75%"   />
 
